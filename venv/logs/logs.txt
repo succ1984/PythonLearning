@@ -1,0 +1,24 @@
+WARNING:root:warning1
+ERROR:root:error
+CRITICAL:root:critical
+WARNING:root:warning1
+ERROR:root:error
+CRITICAL:root:critical
+WARNING:root:warning1
+ERROR:root:error
+CRITICAL:root:critical
+04/02/2020 08:00:55 PM warning1
+04/02/2020 08:00:55 PM error
+04/02/2020 08:00:55 PM critical
+2020-04-02 20:03:18 warning1
+2020-04-02 20:03:18 error
+2020-04-02 20:03:18 critical
+2020-04-02 20:04:01 warning1
+2020-04-02 20:04:01 error
+2020-04-02 20:04:01 critical
+2020-04-02 20:05:27 PM warning1
+2020-04-02 20:05:27 PM error
+2020-04-02 20:05:27 PM critical
+2020-04-03 15:30:02 warning1
+2020-04-03 15:30:02 error
+2020-04-03 15:30:02 critical
